@@ -1,0 +1,8 @@
+Case 1: 31
+0 0 0 0 0 0 1 F 
+Case 2: 255
+0 0 0 0 0 0 F F 
+Case 3: 65535
+0 0 0 0 F F F F 
+Case 4: 4294967295
+F F F F F F F F 
