@@ -8,18 +8,15 @@ unsigned int nibble(unsigned int val, int k) {
 int main(int argc, char const *argv[]){
 	unsigned int num;
 	int cnt = 1;
-	unsigned int arr[10] = {0};
 
 	while(scanf("%u", &num) != EOF){
 
 		printf("Case %d: %u\n", cnt, num);
 		cnt++;
-		for (int i = 0; i < 8; ++i){
+		for (int i = 7; i >= 0; --i){
 			unsigned int ans = nibble(num, i);
-			arr[7-i] = ans;
+			printf("%X ", ans);
 		}
-		for (int i = 0; i < 8; ++i)
-			printf("%X ", arr[i]);
 
 		printf("\n");
 	}
