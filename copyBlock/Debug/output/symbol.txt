@@ -1,0 +1,48 @@
+         w __post_c_init
+         w __pre_c_init
+         w _arg_init
+         w _call_exit
+00000014 a num
+00300000 W _RELAX_END_
+00300004 T _start
+00300078 T main	/cygdrive/c/Users/CS2019/Desktop/copyBlock/Debug/../copyBlock.s:22
+00300078 T memcpy	/cygdrive/c/Users/CS2019/Desktop/copyBlock/Debug/../copyBlock.s:22
+00300088 t m_src_word_print	/cygdrive/c/Users/CS2019/Desktop/copyBlock/Debug/../copyBlock.s:28
+003000ae t m_word_copy	/cygdrive/c/Users/CS2019/Desktop/copyBlock/Debug/../copyBlock.s:42
+003000cc t m_dst_word_print	/cygdrive/c/Users/CS2019/Desktop/copyBlock/Debug/../copyBlock.s:54
+003000ec T printf
+00300108 t vprintf_help
+00300128 T vprintf
+00300164 t sep_frac
+003001a2 T double2dec
+003007d6 T abs
+003007e0 T do_printf
+00300e18 T nds_write
+00300e34 T strcpy
+00300e44 T strlen
+00300e50 T __gedf2	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:4965
+00300e50 T __gtdf2	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:4965
+00300e54 T __cmpdf2	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:5011
+00300e54 T __eqdf2	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:5011
+00300e54 T __ledf2	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:5011
+00300e54 T __ltdf2	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:5011
+00300e54 T __nedf2	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:5011
+00300ec0 T __lshrdi3	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/libgcc2.c:403
+00300ee8 T __ashldi3	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/libgcc2.c:431
+00300f10 r .fmt_str1
+00300f14 r .fmt_str2
+00300f16 r .fmt_str3
+00300f1c r .fmt_str4
+00300f40 d src
+00300f90 d dst
+00300f98 W _FP_BASE_
+00300f98 W _SDA_BASE_
+00300fe0 D _impure_ptr
+00300fe4 B __bss_start
+00300fe4 B _edata
+00300fe4 b output_idx
+00300fe8 b output_buff
+00300fec B _NDS32_REENT__errno
+00300ff0 b impure_data
+00300ff4 B _end
+00780000 A _stack

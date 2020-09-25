@@ -1,0 +1,46 @@
+         w __post_c_init
+         w __pre_c_init
+         w _arg_init
+         w _call_exit
+00000064 a num
+00300000 W _RELAX_END_
+00300004 T _start
+00300078 t .Init	/cygdrive/c/Users/CS2019/Desktop/prime/Debug/../prime.s:16
+00300078 T main	/cygdrive/c/Users/CS2019/Desktop/prime/Debug/../prime.s:16
+00300084 t .Check_bound	/cygdrive/c/Users/CS2019/Desktop/prime/Debug/../prime.s:21
+0030008c t .Check_prime	/cygdrive/c/Users/CS2019/Desktop/prime/Debug/../prime.s:25
+003000a4 t .Print_num	/cygdrive/c/Users/CS2019/Desktop/prime/Debug/../prime.s:34
+003000bc t .Add_check_num	/cygdrive/c/Users/CS2019/Desktop/prime/Debug/../prime.s:42
+003000c4 t .Out	/cygdrive/c/Users/CS2019/Desktop/prime/Debug/../prime.s:46
+003000c8 T printf
+003000e4 t vprintf_help
+00300104 T vprintf
+00300140 t sep_frac
+0030017e T double2dec
+003007b2 T abs
+003007bc T do_printf
+00300df4 T nds_write
+00300e10 T strcpy
+00300e20 T strlen
+00300e2c T __gedf2	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:4965
+00300e2c T __gtdf2	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:4965
+00300e30 T __cmpdf2	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:5011
+00300e30 T __eqdf2	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:5011
+00300e30 T __ledf2	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:5011
+00300e30 T __ltdf2	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:5011
+00300e30 T __nedf2	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:5011
+00300e9c T __lshrdi3	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/libgcc2.c:403
+00300ec4 T __ashldi3	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/libgcc2.c:431
+00300eec r .fmt_dicimal
+00300ef0 r .fmt_new_line
+00300f24 D _impure_ptr
+00300f28 S __bss_start
+00300f28 S _edata
+00300f28 b output_idx
+00300f2c W _FP_BASE_
+00300f2c W _SDA_BASE_
+00300f2c b output_buff
+00300f30 B _NDS32_REENT__errno
+00300f34 b impure_data
+00300f38 B _end
+00780000 A _stack

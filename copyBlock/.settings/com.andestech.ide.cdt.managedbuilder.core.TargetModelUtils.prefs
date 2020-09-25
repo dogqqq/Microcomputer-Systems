@@ -1,0 +1,7 @@
+#Fri Sep 25 12:24:06 CST 2020
+autoBuildEnable=false
+connectType=SID
+eclipse.preferences.version=1
+iceman.misc.args=
+name=VirtualMCU-N801-S
+targetURI=rse\://LOCALHOST/~target/VirtualMCU-N801-S
