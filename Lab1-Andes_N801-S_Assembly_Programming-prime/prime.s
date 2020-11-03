@@ -1,4 +1,7 @@
 ! print all prime number < 100
+! Creation Date: 2020/09/25
+! Author: dogQ
+
 .equ num, 100
 .section .rodata
 .align 2
