@@ -1,0 +1,191 @@
+00000000 W _RELAX_END_
+00000000 T _nds32_vector_00
+00000010 W _nds32_vector_01	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid01.S:40
+00000020 W _nds32_vector_02	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid02.S:40
+00000030 W _nds32_vector_03	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid03.S:40
+00000040 W _nds32_vector_04	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid04.S:40
+00000050 W _nds32_vector_05	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid05.S:40
+00000060 W _nds32_vector_06	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid06.S:40
+00000070 W _nds32_vector_07	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid07.S:40
+00000080 T _nds32_vector_08
+00000090 T _nds32_vector_09
+000000a0 T _nds32_vector_10
+000000b0 W _nds32_vector_11	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid11.S:40
+000000c0 W _nds32_vector_12	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid12.S:40
+000000d0 W _nds32_vector_13	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid13.S:40
+000000e0 W _nds32_vector_14	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid14.S:40
+000000f0 T _nds32_vector_15
+00000100 R _nds32_nmih
+00000104 R _nds32_wrh
+00000108 R _nds32_jmptbl_00
+0000010c V _nds32_jmptbl_01
+00000110 V _nds32_jmptbl_02
+00000114 V _nds32_jmptbl_03
+00000118 V _nds32_jmptbl_04
+0000011c V _nds32_jmptbl_05
+00000120 V _nds32_jmptbl_06
+00000124 V _nds32_jmptbl_07
+00000128 R _nds32_jmptbl_08
+0000012c R _nds32_jmptbl_09
+00000130 R _nds32_jmptbl_10
+00000134 V _nds32_jmptbl_11
+00000138 V _nds32_jmptbl_12
+0000013c V _nds32_jmptbl_13
+00000140 V _nds32_jmptbl_14
+00000144 R _nds32_jmptbl_15
+00000148 T _nds32_e_sa_nr	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/excp_isr.S:101
+0000018a T _nds32_i_ps_nn	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/intr_isr.S:116
+000001a0 T _nds32_reset	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/reset.S:36
+000001a0 T _start	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/reset.S:36
+00000220 t Default_Handler	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../init-default.c:17
+00000220 W HW2_ISR	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../init-default.c:19
+00000220 W HW3_ISR	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../init-default.c:19
+00000220 W HW4_ISR	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../init-default.c:19
+00000220 W HW5_ISR	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../init-default.c:19
+00000220 W error_exception_handler	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../init-default.c:19
+00000220 W tlb_exception_handler	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../init-default.c:19
+00000222 T __null_function	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../init-default.c:22
+00000224 T __c_init	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../init-default.c:26
+0000025c T __cpu_init	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../init-default.c:49
+0000028e T _nds32_init_mem	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../init-soc.c:19
+0000029e T __soc_init	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../init-soc.c:26
+000002a0 T nmi_handler	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../interrupt-c-ext.c:5
+000002a8 T GIE_ENABLE	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../interrupt-c-ext.c:9
+000002ae T GIE_DISABLE	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../interrupt-c-ext.c:14
+000002b8 T gen_swi	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../interrupt-c-ext.c:21
+000002d8 T initIntr_standby	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../interrupt-c-ext.c:31
+000002e0 T clear_swi	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../interrupt-c-ext.c:40
+000002f4 T reset_handler	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../interrupt-c-ext.c:59
+00000312 T syscall_handler	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../interrupt-c-ext.c:71
+0000031c T HW0_ISR	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../interrupt-c-ext.c:85
+0000031e T HW1_ISR	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../interrupt-c-ext.c:94
+00000328 T SW0_ISR	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../interrupt-c-ext.c:102
+00000340 T delay1	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:6
+0000035c T DRV_EnableHWInt	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:32
+00000376 T DRV_BlockIntDisable	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:42
+000003c0 T DRV_IntInitial	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:53
+000003d6 T DRV_SysXtal	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:68
+000003fa T OS_PowerOnDriverInitial	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:94
+00000412 T DRV_PutChar	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:180
+00000470 T DRV_PutStr	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:202
+000004a2 T DRV_IntToStr	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:217
+00000668 T DRV_Printf	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:303
+0000083c T dip_read	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:365
+0000084c T dip_check	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:369
+00000898 T show	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:375
+000009de T getKey	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:401
+00000aea T setXY	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:438
+00000b10 T setInput	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:444
+00000b70 T setOutput	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:461
+00000caa T reset	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:498
+00000cfc T main	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:509
+00000dd8 T __assert_func
+00000e08 T __assert
+00000e16 T _fiprintf_r
+00000e32 T fiprintf
+00000e58 T memcpy
+00000e6c T memset
+00000e7c T __sprint_r
+00000e9a T _vfiprintf_r
+0000175e T vfiprintf
+00001774 t __sbprintf
+000017de T __swsetup_r
+00001890 T abort
+0000189a T __sflush_r
+000019c2 T _fflush_r
+000019e6 T fflush
+00001a02 t __fp_lock
+00001a06 t __fp_unlock
+00001a0a T _cleanup_r
+00001a16 T __sfmoreglue
+00001a46 T _cleanup
+00001a50 T __sinit
+00001b2a T __sfp
+00001ba0 T __sfp_lock_acquire
+00001ba2 T __sfp_lock_release
+00001ba4 T __sinit_lock_acquire
+00001ba6 T __sinit_lock_release
+00001ba8 T __fp_lock_all
+00001bb6 T __fp_unlock_all
+00001bc4 T __sfvwrite_r
+00001e98 T _fwalk
+00001ed2 T _fwalk_reent
+00001f10 T __smakebuf_r
+00001ff0 T memchr
+00002008 T memmove
+00002034 T _free_r
+000020a8 T _malloc_r
+0000214e T _realloc_r
+00002198 T _sbrk_r
+000021b4 T __sread
+000021da T __seofread
+000021de T __swrite
+00002216 T __sseek
+0000223e T __sclose
+0000224c T strlen
+00002258 T _write_r
+00002278 T _close_r
+00002294 T _fclose_r
+0000231a T fclose
+00002328 T _fstat_r
+00002346 T _isatty_r
+00002362 T _lseek_r
+00002382 T _malloc_usable_size_r
+00002396 T _read_r
+000023b8 T _exit
+000023c0 T _close
+000023c8 T _read
+000023d0 T _write
+000023d8 T _lseek
+000023e0 T _fstat
+000023e8 T _isatty
+000023fc T _sbrk
+0000242c T __syscall_error_handler
+0000243c T __udivdi3	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:812
+00002440 t fudiv_qrnnd	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:955
+00002498 T __udivmoddi4	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:1143
+00002604 T __umoddi3	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:1733
+0000261c T __clzsi2	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib2src-mculib/_clzsi2.S:28
+0000263c T umul_ppmm	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:854
+0000270c r __FUNCTION__.2038
+00002780 r zeroes.4461
+00002790 r blanks.4460
+000027a0 A __data_lmastart
+00100200 D __data_start
+00100200 D index_7LED_NUM	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:350
+00100244 D digit	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:352
+00100268 D input	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:354
+00100278 D output	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:354
+00100288 D pre_key	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:356
+0010028c D _NDS32_REENT__stderr
+00100290 D _NDS32_REENT__stdout
+00100294 D _NDS32_REENT__stdin
+00100298 D _NDS32_REENT___sglue
+001002a4 D _impure_ptr
+001002a8 B __bss_start
+001002a8 B _edata
+001002a8 B _lmaend
+001002a8 B cnt	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:356
+001002ac B tmp	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:399
+001002b0 B _NDS32_REENT___cleanup
+001002b4 B _NDS32_REENT___sdidinit
+001002b8 B _NDS32_REENT__errno
+001002bc b impure_data
+001002c0 B __malloc_sbrk_start
+001002c4 B __malloc_free_list
+001002c8 b heap_end
+001002cc B u8TxdBuf	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:178
+001002e4 B _NDS32_REENT_(short, float)
+00100308 W _FP_BASE_
+00100308 W _SDA_BASE_
+0010041c B _end
+0010041c C j	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:358
+00100420 C x	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:359
+00100424 C stay	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:358
+00100428 C i	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:358
+0010042c C col	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:399
+00100430 C y	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:359
+00100434 C key	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:399
+00100438 C result	/cygdrive/c/WorkSpace/AndeSight/WT58F2C9_Key_Matrix/Debug/../main.c:359
+0010043c C errno
+00103000 A _stack
