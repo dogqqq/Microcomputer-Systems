@@ -1,0 +1,190 @@
+00000000 W _RELAX_END_
+00000000 T _nds32_vector_00
+00000010 W _nds32_vector_01	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid01.S:40
+00000020 W _nds32_vector_02	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid02.S:40
+00000030 W _nds32_vector_03	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid03.S:40
+00000040 W _nds32_vector_04	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid04.S:40
+00000050 W _nds32_vector_05	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid05.S:40
+00000060 W _nds32_vector_06	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid06.S:40
+00000070 W _nds32_vector_07	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid07.S:40
+00000080 T _nds32_vector_08
+00000090 T _nds32_vector_09
+000000a0 T _nds32_vector_10
+000000b0 W _nds32_vector_11	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid11.S:40
+000000c0 W _nds32_vector_12	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid12.S:40
+000000d0 W _nds32_vector_13	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid13.S:40
+000000e0 W _nds32_vector_14	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/vec_vid14.S:40
+000000f0 T _nds32_vector_15
+00000100 R _nds32_nmih
+00000104 R _nds32_wrh
+00000108 R _nds32_jmptbl_00
+0000010c V _nds32_jmptbl_01
+00000110 V _nds32_jmptbl_02
+00000114 V _nds32_jmptbl_03
+00000118 V _nds32_jmptbl_04
+0000011c V _nds32_jmptbl_05
+00000120 V _nds32_jmptbl_06
+00000124 V _nds32_jmptbl_07
+00000128 R _nds32_jmptbl_08
+0000012c R _nds32_jmptbl_09
+00000130 R _nds32_jmptbl_10
+00000134 V _nds32_jmptbl_11
+00000138 V _nds32_jmptbl_12
+0000013c V _nds32_jmptbl_13
+00000140 V _nds32_jmptbl_14
+00000144 R _nds32_jmptbl_15
+00000148 T _nds32_e_sa_nr	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/excp_isr.S:101
+0000018a T _nds32_i_ps_nn	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/intr_isr.S:116
+000001a0 T _nds32_reset	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/reset.S:36
+000001a0 T _start	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/isr-library/reset.S:36
+00000220 t Default_Handler	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../init-default.c:17
+00000220 W HW2_ISR	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../init-default.c:19
+00000220 W HW3_ISR	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../init-default.c:19
+00000220 W HW4_ISR	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../init-default.c:19
+00000220 W HW5_ISR	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../init-default.c:19
+00000220 W error_exception_handler	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../init-default.c:19
+00000220 W tlb_exception_handler	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../init-default.c:19
+00000222 T __null_function	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../init-default.c:22
+00000224 T __c_init	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../init-default.c:26
+0000025c T __cpu_init	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../init-default.c:49
+0000028e T _nds32_init_mem	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../init-soc.c:19
+0000029e T __soc_init	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../init-soc.c:26
+000002a0 T nmi_handler	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../interrupt-c-ext.c:5
+000002a8 T GIE_ENABLE	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../interrupt-c-ext.c:9
+000002ae T GIE_DISABLE	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../interrupt-c-ext.c:14
+000002b8 T gen_swi	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../interrupt-c-ext.c:21
+000002d8 T initIntr_standby	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../interrupt-c-ext.c:31
+000002e0 T clear_swi	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../interrupt-c-ext.c:40
+000002f4 T reset_handler	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../interrupt-c-ext.c:59
+00000312 T syscall_handler	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../interrupt-c-ext.c:71
+0000031c T HW0_ISR	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../interrupt-c-ext.c:85
+0000031e T HW1_ISR	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../interrupt-c-ext.c:94
+00000328 T SW0_ISR	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../interrupt-c-ext.c:102
+00000340 T delay1	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:7
+0000035c T dip_read	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:104
+0000036c T dip_check	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:108
+000003b8 T read_dip_switch	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:113
+000003fa T pow	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:119
+00000424 T LED_display	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:125
+00000554 T set_num	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:146
+0000074c T adjust_result	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:188
+000007cc T set_7SEG	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:212
+00000898 T display_7SEG	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:232
+000009aa T main	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:258
+00000a5c T __assert_func
+00000a8c T __assert
+00000a9a T _fiprintf_r
+00000ab6 T fiprintf
+00000adc T memcpy
+00000af0 T memset
+00000b00 T __sprint_r
+00000b1e T _vfiprintf_r
+000013e2 T vfiprintf
+000013f8 t __sbprintf
+00001462 T __swsetup_r
+00001514 T abort
+0000151e T __sflush_r
+00001646 T _fflush_r
+0000166a T fflush
+00001686 t __fp_lock
+0000168a t __fp_unlock
+0000168e T _cleanup_r
+0000169a T __sfmoreglue
+000016ca T _cleanup
+000016d4 T __sinit
+000017ae T __sfp
+00001824 T __sfp_lock_acquire
+00001826 T __sfp_lock_release
+00001828 T __sinit_lock_acquire
+0000182a T __sinit_lock_release
+0000182c T __fp_lock_all
+0000183a T __fp_unlock_all
+00001848 T __sfvwrite_r
+00001b1c T _fwalk
+00001b56 T _fwalk_reent
+00001b94 T __smakebuf_r
+00001c74 T memchr
+00001c8c T memmove
+00001cb8 T _free_r
+00001d2c T _malloc_r
+00001dd2 T _realloc_r
+00001e1c T _sbrk_r
+00001e38 T __sread
+00001e5e T __seofread
+00001e62 T __swrite
+00001e9a T __sseek
+00001ec2 T __sclose
+00001ed0 T strlen
+00001edc T _write_r
+00001efc T _close_r
+00001f18 T _fclose_r
+00001f9e T fclose
+00001fac T _fstat_r
+00001fca T _isatty_r
+00001fe6 T _lseek_r
+00002006 T _malloc_usable_size_r
+0000201a T _read_r
+0000203c T _exit
+00002044 T _close
+0000204c T _read
+00002054 T _write
+0000205c T _lseek
+00002064 T _fstat
+0000206c T _isatty
+00002080 T _sbrk
+000020b0 T __syscall_error_handler
+000020c0 T __udivdi3	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:812
+000020c4 t fudiv_qrnnd	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:955
+0000211c T __udivmoddi4	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:1143
+00002288 T __umoddi3	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:1733
+000022a0 T __clzsi2	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib2src-mculib/_clzsi2.S:28
+000022c0 T umul_ppmm	/home/sqa/build-ast211/build-2015-08-21/source-packages/gcc-4.9.2-bsp-v4_0_2-branch/libgcc/config/nds32/lib1asmsrc-mculib.S:854
+00002390 r __FUNCTION__.1989
+00002404 r zeroes.4461
+00002414 r blanks.4460
+00002424 A __data_lmastart
+00100200 D LCD_ACShiftDirection	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../lcm.h:31
+00100200 D __data_start
+00100202 D LCD_DisplayAutoShift	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../lcm.h:32
+00100204 D LCD_Display	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../lcm.h:35
+00100206 D LCD_Cursor	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../lcm.h:36
+00100208 D LCD_CursorBlink	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../lcm.h:37
+0010020a D LCD_ShiftMode	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../lcm.h:40
+0010020c D LCD_ShiftRight	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../lcm.h:41
+0010020e D LCD_InstructionMode	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../lcm.h:44
+00100210 D LCD_NumLine	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../lcm.h:45
+00100212 D LCD_FontSize	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../lcm.h:46
+00100214 D LCD_BusyFlag	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../lcm.h:48
+00100218 D pattern	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../lcm.h:50
+00100518 W _FP_BASE_
+00100518 W _SDA_BASE_
+00100618 D index_7LED_NUM	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:96
+0010065c D digit	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:98
+0010067c D numbers	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:100
+0010069c D result_arr	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:101
+001006ac D _NDS32_REENT__stderr
+001006b0 D _NDS32_REENT__stdout
+001006b4 D _NDS32_REENT__stdin
+001006b8 D _NDS32_REENT___sglue
+001006c4 D _impure_ptr
+001006c8 B __bss_start
+001006c8 B _edata
+001006c8 B _lmaend
+001006c8 B dip	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:99
+001006e8 B _NDS32_REENT___cleanup
+001006ec B _NDS32_REENT___sdidinit
+001006f0 B _NDS32_REENT__errno
+001006f4 b impure_data
+001006f8 B __malloc_sbrk_start
+001006fc B __malloc_free_list
+00100700 b heap_end
+00100704 B _NDS32_REENT_(short, float)
+0010083c B _end
+0010083c C j	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:102
+00100840 C stay	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:102
+00100844 C v1	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:102
+00100848 C i	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:102
+0010084c C v2	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:102
+00100850 C result	/cygdrive/c/WorkSpace/AndeSight/109test1-407262512/Debug/../main.c:102
+00100854 C errno
+00103000 A _stack
